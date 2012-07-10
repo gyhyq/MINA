@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: elecharny
+Build-Jdk: 1.6.0_22
+Specification-Title: Apache MINA Examples
+Specification-Version: 2.0.2
+Specification-Vendor: Apache MINA Project
+Implementation-Title: Apache MINA Examples
+Implementation-Version: 2.0.2
+Implementation-Vendor-Id: org.apache.mina
+Implementation-Vendor: Apache MINA Project
+

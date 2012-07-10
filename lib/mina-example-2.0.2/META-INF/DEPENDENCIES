@@ -1,0 +1,31 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache MINA Examples
+
+
+From: 'Apache MINA Project' (http://mina.apache.org/)
+  - Apache MINA Core (http://mina.apache.org/mina-core) org.apache.mina:mina-core:bundle:2.0.2
+    License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0)
+  - Apache MINA JavaBeans Integration (http://mina.apache.org/mina-integration-beans) org.apache.mina:mina-integration-beans:bundle:2.0.2
+    License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0)
+  - Apache MINA JMX Integration (http://mina.apache.org/mina-integration-jmx) org.apache.mina:mina-integration-jmx:bundle:2.0.2
+    License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0)
+  - Apache MINA State Machine (http://mina.apache.org/mina-statemachine) org.apache.mina:mina-statemachine:bundle:2.0.2
+    License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - JCL 1.1.1 implemented over SLF4J (http://www.slf4j.org) org.slf4j:jcl-over-slf4j:jar:1.5.11
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.5.11
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Spring Framework' (http://www.springframework.org/)
+  - Spring Framework (http://www.springframework.org) org.springframework:spring:jar:2.5.6
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
